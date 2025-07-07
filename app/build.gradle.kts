@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "dam.example.tresnumeros"
+    namespace = "dam.pmdm.tresnumeros"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "dam.example.tresnumeros"
+        applicationId = "dam.pmdm.tresnumeros"
         minSdk = 28
         targetSdk = 36
         versionCode = 1

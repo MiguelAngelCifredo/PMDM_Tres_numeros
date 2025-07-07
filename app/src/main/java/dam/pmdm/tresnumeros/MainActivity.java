@@ -1,4 +1,4 @@
-package dam.example.tresnumeros;
+package dam.pmdm.tresnumeros;
 
 import android.os.Bundle;
 import android.widget.EditText;
