@@ -1,3 +1,5 @@
+![Icon](/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp)
+
 # Tres números
 
 Esta es una app Android sencilla que permite realizar operaciones básicas entre tres números.
@@ -48,7 +50,6 @@ Esta es una app Android sencilla que permite realizar operaciones básicas entre
 /app/src/main/java/.../MainActivity.java (funcionalidad básica)
 /app/src/main/java/.../MainActivityV2.java (refactorización de código, todas las operaciones se basan en ordenar un vector)
 /app/src/main/res/layout/activity_main.xml
-README.md
 ```
 
 ## 📸 Capturas de pantalla

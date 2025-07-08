@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "DAM Tres números"
+rootProject.name = "Tres números"
 include(":app")
